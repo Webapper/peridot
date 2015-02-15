@@ -1,7 +1,7 @@
 Contents of this folder
 =======================
 
-This folder contents different applications in its own structures, there's no path restrictions but some logical ones
+This folder contains different applications in its own structures, there's no path restrictions but some logical ones
 like:
 
  - Applications **must** separated logically based on their roles & meanings
