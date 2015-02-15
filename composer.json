@@ -1,0 +1,22 @@
+{
+  "name": "webapper/peridot",
+  "description": "Peridot is a wireframe environment for building web-applications",
+  "minimum-stability": "dev",
+  "license": "CC-4.0",
+  "authors": [
+    {
+      "name": "Assarte D'Raven",
+      "email": "fejlesztes@webapper.hu"
+    }
+  ],
+  "config": {
+    "vendor-dir": "libs"
+  },
+  "require": {
+    "nitra/php-min": "dev-master",
+    "swiftmailer/swiftmailer": "dev-master",
+    "twig/twig": "dev-master",
+    "webapper/twigassets": "dev-master",
+    "webapper/halogen": "dev-master"
+  }
+}
